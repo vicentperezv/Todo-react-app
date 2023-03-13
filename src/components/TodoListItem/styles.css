@@ -24,16 +24,19 @@
 }
 
 .todo-list-item-delete {
-  background: rgb(200, 200, 200);
+  background: #e74c3c;
+  color: #fff;
   border: none;
+  border-radius: 3px;
   cursor: pointer;
   width: 24px;
   height: 24px;
   flex-shrink: 0;
+  font-weight: bold;
 }
 
 .todo-list-item-delete:hover {
-  background: rgb(172, 172, 172);
+  background: rgb(202, 3, 3);
 }
 
 .todo-list-item-checked {

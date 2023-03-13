@@ -22,12 +22,12 @@ Esta app hace lo siguiente:
 #### Imagenes de la App 
 
 - Lista con TODO's
-  ![TodoList-full](https://github.com/vicentperezv/Todo-react-app/blob/main/assets/list.png)
+  ![TodoList-full](https://github.com/vicentperezv/Todo-react-app/blob/main/assets/list%202.png)
 
 - Lista con TODO's marcados
-  ![TodoListItem-checked](https://github.com/vicentperezv/Todo-react-app/blob/main/assets/List%20check.png)
+  ![TodoListItem-checked](https://github.com/vicentperezv/Todo-react-app/blob/main/assets/List%20check%202.png)
   
 - Visualización de un error
-  ![TodoError](https://github.com/vicentperezv/Todo-react-app/blob/main/assets/error.png)
+  ![TodoError](https://github.com/vicentperezv/Todo-react-app/blob/main/assets/error%202.png)
 
 
